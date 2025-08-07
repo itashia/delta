@@ -1,0 +1,9 @@
+User ID: 7572274746
+Name: احمد شاملو
+Phone: 9435326291
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 22:01:46
+Area: منطقه دو
+Field: ریاضی

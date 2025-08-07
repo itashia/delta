@@ -1,0 +1,9 @@
+User ID: 1555056776
+Name: یاسر
+Phone: 9390330248
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-05 13:54:08
+Area: منطقه سه
+Field: انسانی

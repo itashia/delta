@@ -1,0 +1,9 @@
+User ID: 7228285625
+Name: مرتضی شعبانی
+Phone: 9300433514
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 23:18:37
+Area: منطقه سه
+Field: تجربی

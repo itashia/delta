@@ -1,0 +1,9 @@
+User ID: 7174755867
+Name: محمد
+Phone: 9036132164
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-02 20:26:37
+Area: منطقه سه
+Field: ریاضی

@@ -1,0 +1,9 @@
+User ID: 8416278325
+Name: آیدا کاشف
+Phone: 9103377150
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 15:08:38
+Area: منطقه یک
+Field: ریاضی

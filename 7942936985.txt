@@ -1,0 +1,9 @@
+User ID: 7942936985
+Name: محیا نصیری
+Phone: 20
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 10:15:09
+Area: منطقه سه
+Field: انسانی

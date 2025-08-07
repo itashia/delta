@@ -1,0 +1,9 @@
+User ID: 2032195783
+Name: پویا
+Phone: 9945759325
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 21:26:22
+Area: منطقه سه
+Field: تجربی

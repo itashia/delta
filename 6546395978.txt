@@ -1,0 +1,8 @@
+User ID: 6546395978
+Name: محمد
+Phone: 12
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-03 23:34:51
+Area: منطقه سه
+Field: تجربی

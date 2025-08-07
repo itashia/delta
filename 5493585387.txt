@@ -1,0 +1,8 @@
+User ID: 5493585387
+Name: محمد
+Phone: 99999999
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 12:43:57
+Area: منطقه سه
+Field: ریاضی

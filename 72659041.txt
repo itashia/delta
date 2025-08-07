@@ -1,0 +1,9 @@
+User ID: 72659041
+Name: محمد محمدی
+Phone: 9123459877
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 15:52:38
+Area: منطقه یک
+Field: تجربی

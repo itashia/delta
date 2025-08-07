@@ -1,0 +1,8 @@
+User ID: 6891749431
+Name: Artmis
+Phone: 12345678901
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 02:03:31
+Area: منطقه سه
+Field: تجربی

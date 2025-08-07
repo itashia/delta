@@ -1,0 +1,8 @@
+User ID: 233004002
+Name: یزدات
+Phone: 9333333333
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-06 10:31:33
+Area: منطقه دو
+Field: تجربی

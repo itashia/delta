@@ -1,0 +1,9 @@
+User ID: 7389970306
+Name: زهرا نصاری
+Phone: 9010590664
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-06 17:06:26
+Area: منطقه سه
+Field: تجربی

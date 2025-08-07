@@ -1,0 +1,8 @@
+User ID: 6925557709
+Name: فاطمه
+Phone: 9876543210
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 23:05:08
+Area: منطقه دو
+Field: انسانی

@@ -1,0 +1,9 @@
+User ID: 1441517904
+Name: یزدان روشن
+Phone: 9305184480
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 23:33:29
+Area: منطقه یک
+Field: ریاضی

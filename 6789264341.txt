@@ -1,0 +1,8 @@
+User ID: 6789264341
+Name: مختار ثقفی
+Phone: 9380581385
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-06 14:58:18
+Area: منطقه دو
+Field: تجربی

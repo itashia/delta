@@ -1,0 +1,9 @@
+User ID: 85120198
+Name: نصرت محمدپور
+Phone: 9151778467
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 22:24:11
+Area: منطقه دو
+Field: ریاضی

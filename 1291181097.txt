@@ -1,0 +1,9 @@
+User ID: 1291181097
+Name: مهدی شریفی
+Phone: 9125629855
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 11:22:36
+Area: منطقه یک
+Field: تجربی

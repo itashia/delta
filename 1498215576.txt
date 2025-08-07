@@ -1,0 +1,8 @@
+User ID: 1498215576
+Name: سروش
+Phone: 999876543
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 00:21:00
+Area: منطقه سه
+Field: تجربی

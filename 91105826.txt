@@ -1,0 +1,9 @@
+User ID: 91105826
+Name: پس چی شد ربات
+Phone: 9151125484
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 23:59:44
+Area: منطقه یک
+Field: تجربی

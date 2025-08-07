@@ -1,0 +1,9 @@
+User ID: 1745960954
+Name: زهرا یوسفی
+Phone: 9128719450
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 00:45:56
+Area: منطقه یک
+Field: تجربی

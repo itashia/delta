@@ -1,0 +1,8 @@
+User ID: 7117819684
+Name: سارا
+Phone: 123456
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-07 12:04:42
+Area: منطقه سه
+Field: انسانی

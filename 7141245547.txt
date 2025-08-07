@@ -1,0 +1,8 @@
+User ID: 7141245547
+Name: علی
+Phone: 99
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-07 16:20:04
+Area: منطقه یک
+Field: ریاضی

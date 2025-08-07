@@ -1,0 +1,9 @@
+User ID: 8004309903
+Name: زهرا
+Phone: 9338168917
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 15:03:03
+Area: منطقه دو
+Field: تجربی

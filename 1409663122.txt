@@ -1,0 +1,8 @@
+User ID: 1409663122
+Name: Amir
+Phone: 1234
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 10:02:29
+Area: منطقه سه
+Field: انسانی

@@ -1,0 +1,9 @@
+User ID: 1381255083
+Name: سما شریف
+Phone: 9305922146
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 21:12:33
+Area: منطقه سه
+Field: تجربی

@@ -1,0 +1,8 @@
+User ID: 5935350745
+Name: ن
+Phone: 123456789
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 06:42:55
+Area: منطقه یک
+Field: ریاضی

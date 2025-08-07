@@ -1,0 +1,9 @@
+User ID: 1264144917
+Name: فاطمه مرادی
+Phone: 9038635624
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 21:50:12
+Area: منطقه یک
+Field: ریاضی

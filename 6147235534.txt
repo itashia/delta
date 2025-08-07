@@ -1,0 +1,9 @@
+User ID: 6147235534
+Name: زهرا نامی
+Phone: 9944542212
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-06 11:42:35
+Area: منطقه سه
+Field: تجربی

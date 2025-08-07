@@ -1,0 +1,8 @@
+User ID: 2040066204
+Name: ابلبل
+Phone: 999
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-03 21:22:00
+Area: منطقه دو
+Field: ریاضی

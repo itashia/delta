@@ -1,0 +1,9 @@
+User ID: 7693397935
+Name: محمد حسین
+Phone: 1
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 00:11:26
+Area: منطقه یک
+Field: ریاضی

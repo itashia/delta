@@ -1,0 +1,8 @@
+User ID: 1105265729
+Name: بهار نورانی
+Phone: 9123456789
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-03 23:37:40
+Area: منطقه یک
+Field: تجربی

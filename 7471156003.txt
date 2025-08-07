@@ -1,0 +1,8 @@
+User ID: 7471156003
+Name: حسین نوروزی
+Phone: 91212345678
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-03 21:41:26
+Area: منطقه یک
+Field: تجربی

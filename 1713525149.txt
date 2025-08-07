@@ -1,0 +1,8 @@
+User ID: 1713525149
+Name: Parsa
+Phone: 9123456789
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 00:21:35
+Area: منطقه دو
+Field: ریاضی

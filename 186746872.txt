@@ -1,0 +1,9 @@
+User ID: 186746872
+Name: علي نوشين
+Phone: 9113546915
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 21:40:44
+Area: منطقه دو
+Field: تجربی

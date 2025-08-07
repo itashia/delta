@@ -1,0 +1,9 @@
+User ID: 32587990
+Name: امیر صفاری
+Phone: 9126218919
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 01:16:46
+Area: منطقه یک
+Field: تجربی

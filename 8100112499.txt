@@ -1,0 +1,9 @@
+User ID: 8100112499
+Name: امیر علی کیایی
+Phone: 2
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 06:46:30
+Area: منطقه یک
+Field: تجربی

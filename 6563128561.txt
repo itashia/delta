@@ -1,0 +1,8 @@
+User ID: 6563128561
+Name: محمد
+Phone: 9356934383
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-03 20:06:28
+Area: منطقه یک
+Field: ریاضی

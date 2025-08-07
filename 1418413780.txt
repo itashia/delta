@@ -1,0 +1,8 @@
+User ID: 1418413780
+Name: بی دی
+Phone: 12345678900
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-03 19:54:31
+Area: منطقه سه
+Field: تجربی

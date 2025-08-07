@@ -1,0 +1,9 @@
+User ID: 5123708899
+Name: عبدالله د
+Phone: 9215856712
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-06 20:14:37
+Area: منطقه دو
+Field: تجربی

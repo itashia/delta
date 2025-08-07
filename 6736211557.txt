@@ -1,0 +1,9 @@
+User ID: 6736211557
+Name: سارا هوشمند
+Phone: 9036580133
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 21:53:27
+Area: منطقه یک
+Field: انسانی

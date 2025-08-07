@@ -1,0 +1,9 @@
+User ID: 5896834948
+Name: ملیکا ولی محمد
+Phone: 9368888888
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 11:01:56
+Area: منطقه یک
+Field: تجربی

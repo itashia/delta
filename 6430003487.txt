@@ -1,0 +1,9 @@
+User ID: 6430003487
+Name: مریم عباسی
+Phone: 9384800783
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 22:00:07
+Area: منطقه یک
+Field: تجربی

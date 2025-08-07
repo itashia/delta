@@ -1,0 +1,8 @@
+User ID: 1361611437
+Name: محمد صادق
+Phone: 9000000000
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 01:43:12
+Area: منطقه سه
+Field: ریاضی

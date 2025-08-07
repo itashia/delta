@@ -1,0 +1,9 @@
+User ID: 1738613315
+Name: تارا
+Phone: 9143304520
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 16:48:36
+Area: منطقه یک
+Field: تجربی

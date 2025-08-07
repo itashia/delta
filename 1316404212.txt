@@ -1,0 +1,9 @@
+User ID: 1316404212
+Name: حسین عباسی
+Phone: 9331170708
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 19:56:58
+Area: منطقه یک
+Field: انسانی

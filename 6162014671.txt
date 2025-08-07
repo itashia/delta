@@ -1,0 +1,8 @@
+User ID: 6162014671
+Name: امیر
+Phone: 93300000
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-03 21:22:58
+Area: منطقه سه
+Field: تجربی

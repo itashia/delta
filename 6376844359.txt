@@ -1,0 +1,9 @@
+User ID: 6376844359
+Name: نادیا هوشمند
+Phone: 9130538780
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 09:33:45
+Area: منطقه سه
+Field: تجربی

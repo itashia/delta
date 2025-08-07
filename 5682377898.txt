@@ -1,0 +1,8 @@
+User ID: 5682377898
+Name: علی احمد
+Phone: 999999999
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 10:42:18
+Area: منطقه دو
+Field: تجربی

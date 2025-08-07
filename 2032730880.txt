@@ -1,0 +1,9 @@
+User ID: 2032730880
+Name: سارا نیسانی
+Phone: 9171069808
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 09:35:42
+Area: منطقه سه
+Field: تجربی

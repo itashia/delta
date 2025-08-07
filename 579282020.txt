@@ -1,0 +1,8 @@
+User ID: 579282020
+Name: ممد
+Phone: 8
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-03 21:35:19
+Area: منطقه یک
+Field: ریاضی

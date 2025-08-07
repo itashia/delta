@@ -1,0 +1,9 @@
+User ID: 5576087450
+Name: امیر زارع
+Phone: 9178431219
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 09:17:47
+Area: منطقه یک
+Field: تجربی

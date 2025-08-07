@@ -1,0 +1,9 @@
+User ID: 6436030072
+Name: اصغر
+Phone: 9905211251
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-05 18:51:24
+Area: منطقه سه
+Field: تجربی

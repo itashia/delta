@@ -1,0 +1,9 @@
+User ID: 8125119846
+Name: فاطمه
+Phone: 9225251102
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-06 20:01:06
+Area: منطقه سه
+Field: تجربی

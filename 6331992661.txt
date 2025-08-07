@@ -1,0 +1,9 @@
+User ID: 6331992661
+Name: ATA
+Phone: 90000000
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 02:08:53
+Area: منطقه یک
+Field: ریاضی

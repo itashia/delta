@@ -1,0 +1,9 @@
+User ID: 5345523068
+Name: مریم
+Phone: 9303440316
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 02:06:15
+Area: منطقه سه
+Field: تجربی

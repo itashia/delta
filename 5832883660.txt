@@ -1,0 +1,9 @@
+User ID: 5832883660
+Name: سارا
+Phone: 9124771101
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 11:26:02
+Area: منطقه دو
+Field: تجربی

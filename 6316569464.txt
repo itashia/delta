@@ -1,0 +1,8 @@
+User ID: 6316569464
+Name: علی محمدی
+Phone: 9123456789
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 08:05:19
+Area: منطقه دو
+Field: ریاضی

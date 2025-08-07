@@ -1,0 +1,9 @@
+User ID: 7812298918
+Name: محسن قنواتی
+Phone: 9163110081
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-05 19:37:57
+Area: منطقه دو
+Field: تجربی

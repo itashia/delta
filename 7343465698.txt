@@ -1,0 +1,9 @@
+User ID: 7343465698
+Name: Diana
+Phone: 9933040090
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 23:55:29
+Area: منطقه دو
+Field: تجربی

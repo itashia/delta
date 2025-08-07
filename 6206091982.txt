@@ -1,0 +1,9 @@
+User ID: 6206091982
+Name: مهدی بحرینی
+Phone: 9132417191
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-06 23:12:05
+Area: منطقه دو
+Field: تجربی

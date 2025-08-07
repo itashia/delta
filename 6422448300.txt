@@ -1,0 +1,9 @@
+User ID: 6422448300
+Name: Zana Ahmadi
+Phone: 9187654321
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 10:46:20
+Area: منطقه دو
+Field: تجربی

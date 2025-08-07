@@ -1,0 +1,9 @@
+User ID: 5284876127
+Name: علی اردلان
+Phone: 9185173066
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 14:05:20
+Area: منطقه سه
+Field: تجربی

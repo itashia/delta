@@ -1,0 +1,9 @@
+User ID: 6221101367
+Name: محاسبه تراز معدل
+Phone: 1
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 23:08:37
+Area: منطقه دو
+Field: تجربی

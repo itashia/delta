@@ -1,0 +1,9 @@
+User ID: 939724843
+Name: محمد
+Phone: 9964117508
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 02:23:39
+Area: منطقه سه
+Field: تجربی

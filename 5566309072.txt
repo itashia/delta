@@ -1,0 +1,9 @@
+User ID: 5566309072
+Name: اسما
+Phone: 9304500455
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 21:52:17
+Area: منطقه سه
+Field: ریاضی

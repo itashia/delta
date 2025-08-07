@@ -1,0 +1,9 @@
+User ID: 1283771675
+Name: بتمن هاشمی
+Phone: 799272929
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 20:31:52
+Area: منطقه یک
+Field: تجربی

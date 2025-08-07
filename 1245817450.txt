@@ -1,0 +1,9 @@
+User ID: 1245817450
+Name: یاسین
+Phone: 9906408323
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 00:38:54
+Area: منطقه سه
+Field: ریاضی

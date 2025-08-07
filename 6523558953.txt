@@ -1,0 +1,9 @@
+User ID: 6523558953
+Name: کمال احمدی
+Phone: 9919386322
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 12:25:50
+Area: منطقه سه
+Field: تجربی

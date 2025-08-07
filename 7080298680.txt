@@ -1,0 +1,9 @@
+User ID: 7080298680
+Name: هستی
+Phone: 9302153715
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 09:11:35
+Area: منطقه سه
+Field: تجربی

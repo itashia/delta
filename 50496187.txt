@@ -1,0 +1,9 @@
+User ID: 50496187
+Name: محمد رضایی
+Phone: 9189876009
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-05 00:45:40
+Area: منطقه دو
+Field: تجربی

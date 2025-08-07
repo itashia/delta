@@ -1,0 +1,9 @@
+User ID: 5310236906
+Name: حسیم
+Phone: 9900189220
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-05 19:36:53
+Area: منطقه دو
+Field: تجربی

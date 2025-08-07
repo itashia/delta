@@ -1,0 +1,9 @@
+User ID: 109955443
+Name: علی احمدی
+Phone: 9143078179
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-05 16:20:10
+Area: منطقه یک
+Field: تجربی

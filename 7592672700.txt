@@ -1,0 +1,9 @@
+User ID: 7592672700
+Name: م
+Phone: 9999999988
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 22:02:54
+Area: منطقه دو
+Field: تجربی

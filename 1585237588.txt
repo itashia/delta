@@ -1,0 +1,9 @@
+User ID: 1585237588
+Name: حاج قاسم
+Phone: 9100235423
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 22:20:30
+Area: منطقه دو
+Field: تجربی

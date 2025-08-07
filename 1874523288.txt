@@ -1,0 +1,8 @@
+User ID: 1874523288
+Name: منطقه دو
+Phone: 9301092851
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-07 16:24:18
+Area: منطقه دو
+Field: تجربی

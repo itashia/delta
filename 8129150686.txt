@@ -1,0 +1,9 @@
+User ID: 8129150686
+Name: فاطمه صالحی
+Phone: 9999999999
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 00:56:54
+Area: منطقه دو
+Field: تجربی

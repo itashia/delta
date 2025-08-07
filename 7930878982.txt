@@ -1,0 +1,9 @@
+User ID: 7930878982
+Name: محمد کریمی
+Phone: 9941679825
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-05 07:55:02
+Area: منطقه سه
+Field: ریاضی

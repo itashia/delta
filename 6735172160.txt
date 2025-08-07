@@ -1,0 +1,9 @@
+User ID: 6735172160
+Name: مهتاب
+Phone: 9373851801
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-05 16:49:47
+Area: منطقه یک
+Field: تجربی

@@ -1,0 +1,8 @@
+User ID: 5192059205
+Name: Mohadese Ramezani
+Phone: 9876543210
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 01:05:43
+Area: منطقه یک
+Field: تجربی

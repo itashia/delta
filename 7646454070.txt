@@ -1,0 +1,9 @@
+User ID: 7646454070
+Name: علی
+Phone: 2
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 19:47:45
+Area: منطقه سه
+Field: تجربی

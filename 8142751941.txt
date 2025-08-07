@@ -1,0 +1,9 @@
+User ID: 8142751941
+Name: محدثه پرورش
+Phone: 9965960490
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 23:20:50
+Area: منطقه یک
+Field: تجربی

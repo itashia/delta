@@ -1,0 +1,9 @@
+User ID: 5716962465
+Name: فاطمه
+Phone: 9935137314
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 00:03:53
+Area: منطقه دو
+Field: تجربی

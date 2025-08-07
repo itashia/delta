@@ -1,0 +1,8 @@
+User ID: 142379122
+Name: منطقه سه
+Phone: 9900996258
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-03 23:21:42
+Area: منطقه سه
+Field: تجربی

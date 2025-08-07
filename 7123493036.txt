@@ -1,0 +1,8 @@
+User ID: 7123493036
+Name: دنیا
+Phone: 91235635
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 11:26:59
+Area: منطقه یک
+Field: تجربی

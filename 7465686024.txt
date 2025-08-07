@@ -1,0 +1,8 @@
+User ID: 7465686024
+Name: زهرا سرابی
+Phone: 98765533
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 00:23:14
+Area: منطقه یک
+Field: تجربی

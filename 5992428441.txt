@@ -1,0 +1,8 @@
+User ID: 5992428441
+Name: امیر
+Phone: 9555555555
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 09:05:05
+Area: منطقه سه
+Field: تجربی

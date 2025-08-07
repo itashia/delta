@@ -1,0 +1,9 @@
+User ID: 6101573099
+Name: امیر
+Phone: 9028876754
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 23:04:07
+Area: منطقه سه
+Field: انسانی

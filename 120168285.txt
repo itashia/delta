@@ -1,0 +1,8 @@
+User ID: 120168285
+Name: ممد
+Phone: 9123856402
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 02:24:33
+Area: منطقه یک
+Field: تجربی

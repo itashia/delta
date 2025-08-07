@@ -1,0 +1,9 @@
+User ID: 190820574
+Name: محمد حسین
+Phone: 9931440194
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 22:25:53
+Area: منطقه دو
+Field: تجربی

@@ -1,0 +1,8 @@
+User ID: 6765642746
+Name: Sara
+Phone: 123567788
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-07 10:37:41
+Area: منطقه دو
+Field: انسانی

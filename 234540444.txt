@@ -1,0 +1,9 @@
+User ID: 234540444
+Name: ساناز نوبخت
+Phone: 9120526583
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 01:16:01
+Area: منطقه یک
+Field: تجربی

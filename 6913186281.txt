@@ -1,0 +1,9 @@
+User ID: 6913186281
+Name: امیر ابراهیمی
+Phone: 4532528252
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 12:15:38
+Area: منطقه سه
+Field: ریاضی

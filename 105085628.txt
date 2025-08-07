@@ -1,0 +1,9 @@
+User ID: 105085628
+Name: اسیه شاهنده
+Phone: 9112742530
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 22:30:52
+Area: منطقه سه
+Field: تجربی

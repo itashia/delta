@@ -1,0 +1,9 @@
+User ID: 5556297468
+Name: امیرعلی تهرانی
+Phone: 9020134111
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-06 20:02:45
+Area: منطقه یک
+Field: ریاضی

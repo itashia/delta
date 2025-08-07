@@ -1,0 +1,9 @@
+User ID: 1118492444
+Name: رقیه توکلی
+Phone: 9019832110
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 23:27:00
+Area: منطقه دو
+Field: تجربی

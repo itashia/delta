@@ -1,0 +1,9 @@
+User ID: 1129035980
+Name: نیما چنارانی
+Phone: 9913620850
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 00:07:41
+Area: منطقه یک
+Field: ریاضی

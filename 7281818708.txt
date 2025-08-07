@@ -1,0 +1,9 @@
+User ID: 7281818708
+Name: مهدی
+Phone: 9326587898
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 00:04:52
+Area: منطقه دو
+Field: ریاضی

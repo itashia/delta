@@ -1,0 +1,8 @@
+User ID: 993042722
+Name: امیر
+Phone: 9333333333
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 21:45:05
+Area: منطقه سه
+Field: تجربی

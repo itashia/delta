@@ -1,0 +1,9 @@
+User ID: 1926792148
+Name: راحیل
+Phone: 9333585921
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 09:03:46
+Area: منطقه دو
+Field: تجربی

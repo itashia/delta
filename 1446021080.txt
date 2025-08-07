@@ -1,0 +1,8 @@
+User ID: 1446021080
+Name: محمد
+Phone: 9930730566
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-03 23:23:33
+Area: منطقه یک
+Field: ریاضی

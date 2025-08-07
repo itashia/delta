@@ -1,0 +1,9 @@
+User ID: 1031000934
+Name: ستایش
+Phone: 99149969946
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 01:00:14
+Area: منطقه یک
+Field: ریاضی

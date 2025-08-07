@@ -1,0 +1,9 @@
+User ID: 1155620794
+Name: طاها
+Phone: 904
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-03 20:52:57
+Area: منطقه سه
+Field: تجربی

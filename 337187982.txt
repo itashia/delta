@@ -1,0 +1,9 @@
+User ID: 337187982
+Name: ثمین حق طلب
+Phone: 9023406012
+Show Channels: False
+Show Help: False
+Show Help: True
+Registration Date: 2025-08-04 10:13:48
+Area: منطقه دو
+Field: تجربی

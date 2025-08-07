@@ -1,0 +1,8 @@
+User ID: 6392397608
+Name: امیر
+Phone: 11111111
+Show Channels: True
+Show Help: True
+Registration Date: 2025-08-04 07:36:46
+Area: منطقه سه
+Field: تجربی
